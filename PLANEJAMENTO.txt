@@ -1,0 +1,37 @@
+TO SEM FIGMAKKKK
+
+BG DESKTOP DARK *
+BG DESKTOP LIGHT *
+BG MOBILE DARK *
+BG MOBILE LIGHT *
+
+FOTO PERFIL DARK *
+FOTO PERFIL LIGHT *
+
+FONT DO PROJETO:
+INTER
+PESO:400 - 500PX
+
+//
+
+CONTEUDO:
+ SITES VINCULADOS:
+ --Projetos
+ --E-books Programação
+ --Veja meu portifólio
+ --Link do Projeto
+
+ RODAPÉ:
+ --Instagram
+ --Linkedin
+ --GitHub
+ --Youtube
+
+//
+
+Ideias:
+-- No tema Dark, ser usado uma imagem do batman e no tema Light, uma do Bruce Wayne
+-- No container aonde ficará as informações, ser usado um fundo estilo vidro embaçado
+
+ 
+ Desenvolvido por Eudes Sales!
