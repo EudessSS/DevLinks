@@ -37,7 +37,7 @@ DevLinks é um agregador de links para usar como cartão de visitas online.
 
 ## 💻 Demonstração
 
-https://github.com/EudessSS/DevLinks
+https://eudessss.github.io/DevLinks/
 
 ## 🔖 Layout
 
