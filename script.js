@@ -9,11 +9,11 @@ function tooglemod(){
     const img = document.querySelector("#profile img")
 
     if(html.classList.contains("light")){
-        img.setAttribute("src","/DevLinks/assets/AVATAR-LIGHT.png")
-        img.setAttribute("alt","Batman")
+        img.setAttribute("src","/assets/AVATAR-LIGHT.png")
+        img.setAttribute("alt","Bruce Wayne")
     }else{
-        img.setAttribute("src","/DevLinks/assets/BATMAN EDITADO.png")
-        img.setAttribute("alt","bruce wayne")
+        img.setAttribute("src","/assets/BATMAN EDITADO.png")
+        img.setAttribute("alt","Batman")
     }
     
     
